@@ -4,6 +4,7 @@ centos65-lamp
 ## require
 * Git
 * Vagrant(https://www.vagrantup.com/)
+* VirtualBox(https://www.virtualbox.org/)
 
 ## install
 `` git clone git@github.com:masusugu/centos65-lamp.git ``  
