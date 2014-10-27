@@ -22,5 +22,6 @@ Vagrant側の `` /var/www/html `` がMac側の `` src `` フォルダに対応�
 * Apache 2.2
 * PHP 5.5
 * MySQL 5.6
+  * vagrant:vagrant
 * Git 1.9
 * Vim
