@@ -6,9 +6,9 @@ centos65-lamp
 * Vagrant(https://www.vagrantup.com/)
 
 ## install
-`` git clone git@github.com:masusugu/centos65-lamp.git ``
-`` cd centos65-lamp ``
-`` vagrant up ``
+`` git clone git@github.com:masusugu/centos65-lamp.git ``  
+`` cd centos65-lamp ``  
+`` vagrant up ``  
 
 ## ssh
 `` vagrant ssh ``
