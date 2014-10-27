@@ -1,7 +1,7 @@
 centos65-lamp
 =============
 
-## require
+## dependencies
 * Git
 * Vagrant(https://www.vagrantup.com/)
 * VirtualBox(https://www.virtualbox.org/)
