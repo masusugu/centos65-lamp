@@ -17,7 +17,7 @@ centos65-lamp
 ## document root
 Vagrant側の `` /var/www/html `` がMac側の `` src `` フォルダに対応します。
 
-## environment
+## components
 * CentOS 6.5
 * Apache 2.2
 * PHP 5.5
