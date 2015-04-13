@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/src":{"owner":"vagrant","group":"apache","mount_options":["dmode=777","fmode=777"],"guestpath":"/home/vagrant/src","hostpath":"/Users/KoideMasatsugu/Documents/vm/centos65-lamp/src","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/KoideMasatsugu/Documents/vm/centos65-lamp","disabled":false}}}
